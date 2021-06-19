@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Wet Utilities
 
-You can use the [editor on GitHub](https://github.com/ROVER-6/WetUtilities/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+The next generation of you name it,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+WetUtilities provides many services, a [Roblox Executor](https://cdn.discordapp.com/attachments/770041339370536995/854093200645685268/WetPlusPlus.zip), a script hub (yet 490 more games to come), a botting service and a really cool community...
 
-### Markdown
+### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can use $help / $features to the Discord bot for help, elsewhere we have many supported games, cool support team, cool devs and plenty of partners!
 
 ```markdown
 Syntax highlighted code block
